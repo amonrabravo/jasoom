@@ -1,6 +1,0 @@
-package com.example.jasoom
-
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity: FlutterActivity() {
-}
